@@ -1,7 +1,8 @@
-# Process for performing web data scapping in python
+# Programmatic way of performing web data scapping in python
 Web Data Scapping - BeautifulSoap4
 
 ```
+Statement:
 Data Scapping is performed from Amazon e-commerce site.
 I pulled one of the product pricing data over http and performed some business login on that data.
 
