@@ -1,11 +1,10 @@
 # Programmatic way of performing web data scapping in python
-Web Data Scapping - BeautifulSoap4
+Web Data Scapping using BeautifulSoap4 library
 
 ```
-Statement:
-Data Scapping is performed from Amazon e-commerce site.
-I pulled one of the product pricing data over http and performed some business login on that data.
-
-If the price is less than our condition an automatic notification will be sent to the user
+Problem Statement:
+Data Scapping is performed on Amazon e-commerce Website.
+To pulled one of the product pricing data over http and performing some business logic on the data.
+If the price is less than our specified condition an automatic notification will be sent to the end user
 
 ```
